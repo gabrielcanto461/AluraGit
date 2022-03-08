@@ -1,0 +1,30 @@
+*   [33mcommit 424bbf1d768c696df4e292c825f51a562056c4e4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m[32m\[m  Merge: 4b81654 5d61ac8
+[31m|[m [32m|[m Author: Gabriel Augusto do Canto Silva <gabriel_canto@hst.br>
+[31m|[m [32m|[m Date:   Tue Mar 8 15:59:14 2022 -0300
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge branch 'titulo'
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 5d61ac88ea0bcd94cad40647e11bd48398e10c5f[m[33m ([m[1;32mtitulo[m[33m)[m
+[31m|[m [32m|[m Author: Gabriel Augusto do Canto Silva <gabriel_canto@hst.br>
+[31m|[m [32m|[m Date:   Tue Mar 8 15:49:49 2022 -0300
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     alterando titulo
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit 4b81654771cf0aa0f19033d09431af8fdde84e37[m
+[32m|[m[32m/[m  Author: Gabriel Augusto do Canto Silva <gabriel_canto@hst.br>
+[32m|[m   Date:   Tue Mar 8 15:58:38 2022 -0300
+[32m|[m   
+[32m|[m       corrigindo bug
+[32m|[m 
+* [33mcommit cb8882fc3b8a2b85d3d0343bfd93c5d5a726df9e[m[33m ([m[1;31mlocal/master[m[33m)[m
+[32m|[m Author: Gabriel Augusto do Canto Silva <gabriel_canto@hst.br>
+[32m|[m Date:   Tue Mar 8 15:28:04 2022 -0300
+[32m|[m 
+[32m|[m     mudando acento
+[32m|[m 
+* [33mcommit 98ce2aa6af64872b12033088343ef3f89779a9b0[m
+  Author: Gabriel Augusto do Canto Silva <gabriel_canto@hst.br>
+  Date:   Tue Mar 8 15:17:12 2022 -0300
+  
+      first commit
